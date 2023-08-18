@@ -35,6 +35,7 @@ img {
 }
 
 .info h1 {
+  font-family: "myriad-pro", sans-serif;
   font-size: 3rem;
   padding-bottom: 10px;
 }
@@ -71,10 +72,8 @@ img {
   align-items: center;
 }
 
-
-
 .transmissoras {
-  max-width: 1600px;
+  max-width: 100%;
   height: 120px;
   padding: 20px;
   background: linear-gradient(#00ACEC,#BBD147);
@@ -93,6 +92,7 @@ img {
   align-items: center;
   padding: 20px;
   gap: 20px;
+  max-width: 1000px;
 }
 
 .logos-transmissoras img{
@@ -114,7 +114,6 @@ img {
     opacity: 1;
   }
 }
-
 
 @media (max-width: 980px) {
   .iphone {
