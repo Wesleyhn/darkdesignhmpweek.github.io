@@ -1,5 +1,5 @@
 body {
-  font-family: 'Myriad Pro', 'Nunito', sans-serif;
+  font-family: "myriad-pro", 'Nunito', sans-serif;
   margin: 0px;
   color: #141414;
   background-color: #FAFAFA;
@@ -28,7 +28,7 @@ img {
 }
 
 .info {
-  font-family: "Myriad Pro";
+  font-family: "myriad-pro", sans-serif;
   text-align: center;
   margin: 0 auto;
   max-width: 760px;
@@ -40,14 +40,14 @@ img {
 }
 
 .info p {
-  font-family: "Nunito";
+  font-family: 'Nunito', sans-serif;
   font-size: 1.175rem;
   color: #717171;
   padding-bottom: 20px;
 }
 
 .btn {
-  font-family: "Nunito";
+  font-family: 'Nunito', sans-serif;
   font-weight: 800;
   display: block;
   background-color: #00ACEC;
